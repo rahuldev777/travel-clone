@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.bg-img{
+
+    background-image: url("/Wandering-Earl-Sahara-Desert.jpg");
+    height: 530px;
+    width: 100%;
+background-size: cover;
+position: absolute;
+}
+
+.banner{
+    
+    background-color: rgba(3, 3, 3, 0.719);
+    height: 420px;
+    width: 600px;
+    padding: 20px;
+    margin-left: 160px;
+    position: relative;
+    margin-top: 70px;
+}
+.banner h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 65px;
+   
+    color: rgb(233, 181, 50);
+    line-height: 60px;
+}
+.banner p{
+
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.container-fluid.img{
+
+
+    background-image: url("/Wandering-Earl-mapbg-3.png");
+    margin-top: 3.5%;
+}
+hr.new5 {
+    border: 1px solid rgb(0, 0, 0);
+   
+    
+  }
+ .col a{
+    text-decoration: none;
+    color: rgb(92, 91, 91);
+ }
+ .col a:hover{
+    color: red;
+ }
+ .blank a{
+    color: rgb(92, 91, 91);
+ }
+.blank a:hover{
+    color: brown;
+    
+}
+ 
